@@ -16,6 +16,8 @@ public class MultiDimensionalArray {
         int b [][] = {{2,4,5},{3,4,7},{5,2,1}};
 
         System.out.println(b[2][0]);
+        //Git-Practice
+        System.out.println("Added some stuff");
 
     }
 }

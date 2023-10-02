@@ -19,6 +19,7 @@ public class ParentClassDemo {
         //Git-Practice
         System.out.println("Adding new lines for github purposes 3.");
         System.out.println("Adding new lines for github purposes 4.");
+        System.out.println("Adding new lines for github purposes 7 new to Develop.");
     }
     public static void main(String[] args) {
         ChildClassDemo cd = new ChildClassDemo();

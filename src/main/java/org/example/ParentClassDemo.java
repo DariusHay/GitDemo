@@ -13,6 +13,9 @@ public class ParentClassDemo {
         //GitDemo
         System.out.println("Adding new lines for github purposes.");
         System.out.println("Adding new lines for github purposes 2.");
+        System.out.println("Adding new lines for github purposes 5.");
+        System.out.println("Adding new lines for github purposes 6. Develop branch");
+
         //Git-Practice
         System.out.println("Adding new lines for github purposes 3.");
         System.out.println("Adding new lines for github purposes 4.");
